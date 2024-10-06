@@ -48,7 +48,7 @@
 
 
 /* id Selectors */
-/* STEP 4A */ {
+/* STEP 4A */ #introduction {
   background-color: rgba(69,105,159,0.15); /* lt blue */
   border: 1px dashed rgb(69,105,159); /* blue */
 }
@@ -57,7 +57,7 @@
   color: rgb(69,105,159); /* blue */
 }
 
-/* STEP 4B */ {
+/* STEP 4B */ #return-to-top{
   background-color: rgb(231,209,75); /* yellow */
 }
 
@@ -70,7 +70,7 @@
 
 /* class Selectors */
 
-/* STEP 5A */ {
+/* STEP 5A */ .first {
   font-weight: bold;
 }
 
@@ -78,7 +78,7 @@
   font-size: 22px;
 }
 
-/* STEP 5B */ {
+/* STEP 5B */ .climate {
   font-weight: bold;
   color: rgb(69,105,159); /* blue */
 }
