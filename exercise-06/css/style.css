@@ -3,23 +3,25 @@
    font-family: "Helvetica", "Arial", sans-serif;
 }
 
-/* STEP 12 */ {
+/* STEP 12 */ a:hover {
   background-color: rgba(231,209,75,0.5); /* lt yellow */
 }
 
-/* STEP 7B */ {
+/* STEP 7B */ h2, 
+h3 {
   color: rgb(69,105,159); /* blue */
 }
 
-/* STEP 7A */ {
+/* STEP 7A */ p,
+li {
   line-height: 1.5;
 }
 
-/* STEP 10A */ {
+/* STEP 10A */ ul>li {
   list-style-type: square;
 }
 
-/* STEP 11A*/ {
+/* STEP 11A*/ abbr [title] {
   text-decoration-color: rgb(69,105,159); /* blue */
   text-decoration-style: wavy;
 }
@@ -38,11 +40,11 @@
   background-color: rgba(231,209,75,0.15); /* lt yellow */
 }
 
-/* STEP 10B */ {
+/* STEP 10B */ aside > p {
   font-style: italic;
 }
 
-/* STEP 6A */ {
+/* STEP 6A */ footer a {
   color: #000;
 }
 
@@ -53,7 +55,7 @@
   border: 1px dashed rgb(69,105,159); /* blue */
 }
 
-/* STEP 6B */ {
+/* STEP 6B */ #introduction a {
   color: rgb(69,105,159); /* blue */
 }
 
@@ -61,7 +63,7 @@
   background-color: rgb(231,209,75); /* yellow */
 }
 
-/* STEP 8 */ {
+/* STEP 8 */ #geography aside  {
   border: 1px dashed rgb(69,105,159);
   padding-left: 16px;
 }
@@ -78,7 +80,7 @@
   font-size: 22px;
 }
 
-/* STEP 5B */ .climate {
+/* STEP 5B */ .highlight {
   font-weight: bold;
   color: rgb(69,105,159); /* blue */
 }
