@@ -1,1 +1,25 @@
 /* stylesheet for constitution.html */
+body {
+    color: red;
+}
+
+body {
+    font-family: georgia;
+}
+
+body {
+    font-size: 18px;
+}
+
+body {
+    color: #222;
+}
+
+body {
+    line-height: 1.5;
+}
+
+footer {
+    font-size: 14px;
+    color: #666
+}
